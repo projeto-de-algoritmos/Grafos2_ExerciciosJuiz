@@ -42,5 +42,4 @@ Para executar os programas, basta baixar os códigos e submetê-los em um compil
 
 ## Vídeos
 
-
-
+https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosJuiz/assets/58870950/1bacf77e-fb86-45a5-83be-73216e158237
